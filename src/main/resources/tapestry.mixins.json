@@ -20,6 +20,7 @@
     "feature.clonecommand.ServerWorldMixin",
     "feature.creativenoclip.ServerPlayNetworkHandlerMixin",
     "feature.explosionblockbreaking.ExplosionMixin",
+    "feature.fasteritemframemaps.EntityTrackerEntryMixin",
     "feature.fillorientationfix.ChestBlockMixin",
     "feature.fillorientationfix.ChunkMixin",
     "feature.fillorientationfix.DispenserBlockMixin",
