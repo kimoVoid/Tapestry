@@ -48,6 +48,7 @@
     "feature.tcpnodelay.RemoteChannelHandlerMixin",
     "loggers.mobcap.NaturalSpawnerAccessor",
     "loggers.mobcap.ServerWorldAccessor",
+    "loggers.projectiles.ArrowEntityMixin",
     "loggers.projectiles.ThrownEntityMixin",
     "loggers.tnt.PrimedTntEntityMixin",
     "tick.MinecraftServerMixin"
